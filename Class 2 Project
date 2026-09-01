@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+
+  <head>
+    <title>Mini Biography Page
+
+    </title>
+  </head>
+  <body>
+ 
+    <h1>Mini Biography: Sachin Tendulkar</h1>
+    <p>Sachin Tendulkar is one of the greatest cricketers in the history of cricket. </p>
+ 
+    <h2>Early Life</h2>
+    <p>He was born on 24 April 1973 in Mumbai, India. He started playing cricket at a very young age and made his international debut for India when he was only 16 years old.</p>
+    <p><small>Note: Students can replace this person with any personality they admire.</small></p>
+ 
+    <h2>Important Achievement</h2>
+    <p>Sachin is popularly known as the <b>“Master Blaster” </b> and the <b>“Little Master.”</b></strong>.</p>
+    <p>He represented India for <i>24 years </i> and achieved many remarkable records.</p>
+    <p>He was the <b>first player to score 100 international centuries </b> and was the first player to score a <mark>double century in a One Day International (ODI).</mark></p>
+ 
+    <h2>Correction Corner</h2>
+    <p><s>Sachin was part of the Pakistan team.</s> Sachin was part of the Indian team that won the 2011 Cricket World Cup.</p>
+ 
+ 
+    <h3>My Reflection</h3>
+    <p>I admire Sachin Tendulkar because he is <b> <i>hardworking, dedicated, and humble.</i></b> He never gave up on his dreams and always worked hard to improve his game.</p>
+ 
+  </body>
+</html>
