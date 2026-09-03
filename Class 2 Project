@@ -7,20 +7,20 @@
   </head>
   <body>
  
-    <h1>Mini Biography: Sachin Tendulkar</h1>
+    <h1>Mini Biography: <b>Sachin Tendulkar</h1></b>
     <p>Sachin Tendulkar is one of the greatest cricketers in the history of cricket. </p>
  
     <h2>Early Life</h2>
-    <p>He was born on 24 April 1973 in Mumbai, India. He started playing cricket at a very young age and made his international debut for India when he was only 16 years old.</p>
-    <p><small>Note: Students can replace this person with any personality they admire.</small></p>
+    <p>He was born on 24<sup>th</sup> April 19<sub>73</sub> in Mumbai, India. He started playing cricket at a very young age and made his international debut for India when he was only 16 years old.</p>
+    <p><small>Note:Students can replace this person with any personality they admire.</small></p>
  
     <h2>Important Achievement</h2>
-    <p>Sachin is popularly known as the <b>“Master Blaster” </b> and the <b>“Little Master.”</b></strong>.</p>
+   <blockquote><p>Sachin is popularly known as the <b>“Master Blaster” </b> and the <b>“Little Master.”</b></strong>.</p>
     <p>He represented India for <i>24 years </i> and achieved many remarkable records.</p>
-    <p>He was the <b>first player to score 100 international centuries </b> and was the first player to score a <mark>double century in a One Day International (ODI).</mark></p>
+    <p>He was the <b>first player to score 100 international centuries </b> and was the first player to score a <mark>double century in a One Day International (ODI).</mark></p></blockquote>
  
     <h2>Correction Corner</h2>
-    <p><s>Sachin was part of the Pakistan team.</s> Sachin was part of the Indian team that won the 2011 Cricket World Cup.</p>
+    <q><p><s>Sachin was part of the Pakistan team.</s> Sachin was part of the Indian team that won the 2011 Cricket World Cup.</p></q>
  
  
     <h3>My Reflection</h3>
