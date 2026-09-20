@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Book Donation Form</title>
+  </head>
+  <body>
+
+    <h1>Book Donation Form</h1>
+    <p>Fill the form to donate the books</p>
+    <form>
+
+      <fieldset>
+        <legend>Donor Details</legend>
+<label>Donor Name</label>
+
+<input type="text" id="name" placeholder="please type full name here">
+</fieldset>
+<br></br>
+
+<fieldset>
+        <label>Donation Date</label>
+        <input type="date" id="donation-date">
+    
+        </fieldset>
+        <FIEldset>
+              <label>Book Condition</label><br>
+        <input type="radio" name="condition" value=" brand new"> Like New<br>
+        <input type="radio" name="condition" value="good and used"> Good<br>
+        <input type="radio" name="condition" value="fair and used"> Used<br><br>
+        
+</FIEldset>
+
+
+      <fieldset>
+        <legend>Book Details</legend>
+
+        <label>Choose Book Category</label><br>
+        <select pid="category">
+          <option value="">-- Select a category --</option>
+          <option value="education">education</option>
+          <option value="story book">story book</option>
+          <option value="comic">comic</option>
+          <option value="magazine">magazine</option>
+        </select>
+        <br><br>
+
+
+
+        <label> BOOK NAME AND AUTHOR NAME</label><br>
+        <textarea id="notes" rows="1" cols="50" placeholder="The book title and author name"></textarea><br>
+
+      </fieldset>
+
+      <br></BR>
+
+      <fieldset>
+        <legend>Preferred Drop-Off Day</legend>
+
+              <label>Book Condition</label><br>
+        <input type="checkbox" name="condition" value=" SUNDAY"> SUNDAY
+        <input type="checkbox" name="condition" value="TUESDAY"> TUESDAY
+        <input type="checkbox" name="condition" value=" THURSDAY"> THURSDAY
+        <input type="checkbox" name="condition" value="SATURDAY"> SATURDAY
+
+      </fieldset>
+
+      <br></BR>
+      <input type="submit" value="Donate My Book">
+
+    </form>
+
+  </body>
+</html>
