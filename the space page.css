@@ -42,6 +42,8 @@ height: 60px;
 background-color: yellow;
 border-radius: 50%;
 animation: twinkle 2s infinite alternate}
+
+
 @keyframes twinkle {
 from { background-color: yellow; }
 {background-color: white; }
