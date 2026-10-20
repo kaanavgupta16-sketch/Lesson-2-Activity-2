@@ -1,0 +1,23 @@
+
+ h1 {
+      color:white
+      animation; floatcloud 2s infinite alternate;
+    }
+ *{background-color: aqua;}
+    h1 {
+      font-size: 42px;
+      color: blue
+    }
+@keyframes floatCloud {
+from {
+transform: translateY(0);
+}
+
+to {
+transform: translateY(20px);
+}}
+.weather-icon {
+  font-size: 70px;
+  animation: floatCloud 3s infinite alternate;
+}
+
