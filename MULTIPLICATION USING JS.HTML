@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    </head>
+
+  <body>
+    <button onclick="multiply(13)">Click Me!</button>
+    <p id="result"></p>
+    <script>
+function multiply(a,b)
+{
+    if(b === undefined)
+    {
+b=9;
+    }
+    var result = a * b;
+
+document.getElementById("result").innerHTML = result;
+}
+</script>
+  </body>
+</html>
